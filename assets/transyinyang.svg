@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   width="452" height="452">
+  <metadata><rdf:RDF><cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Transgender Taijitu</dc:title>
+  </cc:Work></rdf:RDF></metadata>
+  <path style="fill:#5bcefa"
+     d="m 226,0a226,226 0 0 1 0,452 113,113 0 1 1 0-226z"/>
+  <path style="fill:#ddb9d1"
+     d="m 226,452a226,226 0 1 1 0-452 113,113 0 0 1 0,226z"/>
+  <circle style="fill:#5bcefa" cx="226" cy="339" r="113"/>
+  <circle style="fill:#ffffff" cx="226" cy="339" r="30"/>
+  <circle style="fill:#ffffff" cx="226" cy="113" r="30"/>
+</svg>
